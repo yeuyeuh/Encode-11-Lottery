@@ -26,6 +26,7 @@ https://docs.soliditylang.org/en/latest/style-guide.html
 
 https://docs.soliditylang.org/en/latest/natspec-format.html#natspec
 # Homework
+* Create Github Issues with your questions about this lesson
 * Read the references
 * Complete the NatSpec documenting of Lottery.sol
 * (Optional) Implement [Radspec](https://github.com/aragon/radspec)
